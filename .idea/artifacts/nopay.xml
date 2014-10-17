@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nopay">
+    <output-path>$USER_HOME$/Desktop/Server/plugins</output-path>
+    <root id="archive" name="nopay.jar">
+      <element id="module-output" name="noPay" />
+    </root>
+  </artifact>
+</component>

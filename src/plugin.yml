@@ -1,0 +1,9 @@
+name: nopay
+main: me.yarocks.nopay.Main
+version: 1.0.0
+
+commands:
+    payenable:
+          description: enable pay
+    paydisable:
+          description: disable pay
